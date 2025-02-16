@@ -20,7 +20,7 @@ The Weather App is a simple application that allows users to get the current wea
 ## Installation 🔧
 1. Clone the repository:
     ```sh
-    git clone https://github.com/bhaxkar0/WEATHER-APP.git
+    git clone https://github.com/bhaxkar/WEATHER-APP.git
     ```
 2. Navigate to the project directory:
     ```sh
